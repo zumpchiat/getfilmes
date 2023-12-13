@@ -6,6 +6,14 @@
 
 }
 
+.loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14px;
+}
+
+
 .lista_filme article {
     width: 100%;
     background-color: white;

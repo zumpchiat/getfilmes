@@ -37,10 +37,13 @@ Consumo de uma api externa de filmes com o desenvolvimento do Font end para exer
 
 ### Tecnologias utilizadas
  
-**JavaScript**
-**ReactJS**
-**react-router-dom**
-**axios**
+**JavaScript**\
+
+**ReactJS**\
+
+**react-router-dom**\
+
+**axios**\
 
 
 
