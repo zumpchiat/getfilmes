@@ -33,7 +33,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Sobre o Projeto
 
 ### Proposta
-Consumo de uma api externa de filmes com o desenvolvimento do Font end para exercitar os conceitos do Reactjs.
+Consumo de uma api externa de filmes com o desenvolvimento do Font end e utilizar localStorage para armazer a lista de filmes favoritos para exercitar os conceitos do Reactjs.
 
 ### Tecnologias utilizadas
  
