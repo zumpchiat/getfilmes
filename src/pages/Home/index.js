@@ -19,7 +19,7 @@ function Home() {
                 }
             })
             // console.log(response.data.results.slice(0, 10));
-            setFilmes(response.data.results.slice(0, 5))
+            setFilmes(response.data.results.slice(0, 20))
             setLoading(false);
         }
 

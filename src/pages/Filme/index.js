@@ -3,6 +3,8 @@ import { useParams } from "react-router-dom";
 
 import api from "../../services/api";
 
+import "./style.css";
+
 
 function Filme() {
 
@@ -57,6 +59,15 @@ function Filme() {
 
                 <strong>Avaliação: {filme.vote_average} / 10</strong>
 
+            <div className="area-buttons"> 
+
+                <button>Salvar</button>
+                <button>
+                    <a href="#">
+                        Trailler
+                    </a>
+                </button>
+            </div>
         </div>
     )
 }
