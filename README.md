@@ -45,5 +45,7 @@ Consumo de uma api externa de filmes com o desenvolvimento do Font end e utiliza
 
 **axios**\
 
+**React-Toastify**\
+
 
 
